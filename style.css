@@ -1,0 +1,147 @@
+body {
+    background: rgb(41,85,89);
+background: radial-gradient(circle, rgba(41,85,89,1) 3%, rgba(174,238,191,1) 24%, rgba(4,37,41,1) 52%, rgba(5,41,4,1) 76%, rgba(21,215,15,1) 92%);
+}
+.firstheading{
+    text-align: center;
+    color:white;
+    background-color: black;
+    height: 30px;
+    padding:20px ;
+    width: 756px;
+    margin:  auto;
+    font-size: 5opx;
+    font-family: sans-serif;
+    
+}
+.second {
+    border: 30px solid black;
+    height: 900px;
+    width: 736px;
+    margin: auto;
+    position: relative;
+    left: -1px;
+    top: 10px;
+    background-color: black;
+        }
+        .secondheading {
+            color: white;
+            text-align: center;
+            font-size: 30PX;
+        }
+        p {
+            color: white;
+            font-size: 25px;
+            text-align: center;
+            font-family: sans-serif;
+            font-weight: 5px ;
+        }
+        .third {
+            height: 736px;
+            width: 733px;
+            border: 2px solid white;
+            background-color: white;
+        }
+        .third img {
+            height: 209px;
+            width: 415px;
+        }
+        h3 {
+            color: white;
+            width: 250px;
+            position: relative;
+            top: -66px;
+            background-color: black;
+           
+        }
+        .shape1 {
+            height: 142px;
+            width:170px;
+            background-color: white;
+            border-radius: 50%;
+            background-image: url('https://aniportalimages.s3.amazonaws.com/media/details/unnamed_ONypSgk_nBncJf4.jpg');
+            background-size: cover;
+            position: relative;
+            top: -172px;
+            left: 204px;
+
+        }
+        .shape2 {
+            height: 142px;
+            width:170px;
+            background-color: white;
+            border-radius: 50%;
+            background-image: url('https://www.chitkarauniversity.edu.in/wp-content/uploads/2023/01/mou-banner.jpg');
+            background-size: cover;
+            position: relative;
+            left: 133px;
+            top: -41px;
+        }
+        .shape3 {
+            height: 145px;
+            width:175px;
+            background-color: white;
+            border-radius: 50%;
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTInNREJtrcyUL1N0i5jKPPGiHCL4yWyQ9qyw&usqp=CAU');
+            background-size: cover;
+            position: relative;
+            left: 13px;
+            top: 99px;
+        }
+         h2 {
+        
+            color: white;
+            width: 200px;
+            position: relative;
+            top: -66px;
+            background-color: black;
+            font-size: 15px;
+            text-align: center;
+            position: relative;
+            top: -51px;
+            left: 3px;
+
+        }
+        .letter1 {
+            height: 624px;
+            width: 189px;
+            
+            position: relative;
+            top: -199px;
+            left: 201px;
+        }
+        .fastpara {
+          color: black;
+          text-align: justify;
+          font-size: 20px;
+        }
+        .letter2 {
+            height: 398px;
+            width: 216px;
+            position: relative;
+            top: -616px;
+            left: -48px;
+        }
+        .secondpara {
+            color: black;
+          text-align: justify;
+          font-size: 20px;
+        }
+        .secondpara {
+            color: black;
+            text-align: justify;
+            font-size: 20px;
+        }
+        .letter3 {
+            height: 484px;
+            width: 202px;
+            
+            position: relative;
+            top: -497px;
+            left: -286px;
+        }
+        .thirdpara {
+            color: black;
+            font-size: 20px;
+            text-align: justify;
+        }
